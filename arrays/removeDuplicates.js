@@ -36,3 +36,6 @@ const removeDuplicates = (nums) => {
 	}
 	return x + 1;
 };
+
+//T.C. : O(N)
+//S.C. : O(1)
