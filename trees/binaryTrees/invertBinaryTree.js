@@ -1,5 +1,5 @@
+// Leetcode : 226. Invert Binary Tree
 // Invert or Mirror Binary Tree
-
 function mirrorBinaryTree(root) {
 	if (root == null) return root;
 
