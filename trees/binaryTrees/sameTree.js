@@ -1,3 +1,4 @@
+
 var isSameTree = function (p, q) {
 	if (p == null && q == null) return true;
 
